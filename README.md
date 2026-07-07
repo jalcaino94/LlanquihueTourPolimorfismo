@@ -3,7 +3,7 @@ LlanquihueTour - Agencia de Turismo Llanquihue Tour
 
 Este proyecto consiste en una aplicación de consola en Java desarrollada para la agencia de turismo **Llanquihue Tour**, diseñada como parte de las actividades prácticas de la asignatura **Desarrollo Orientado a Objetos I** de **Duoc UC**.
 
-En esta séptima semana, el sistema implementa **polimorfismo y colecciones genéricas** para gestionar de manera dinámica y flexible los servicios turísticos ofrecidos por la agencia.
+En esta versión el sistema implementa **polimorfismo y colecciones genéricas** para gestionar de manera dinámica y flexible los servicios turísticos ofrecidos por la agencia.
 
 ---
 
