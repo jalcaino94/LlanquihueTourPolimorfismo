@@ -21,7 +21,7 @@ El sistema ha sido adaptado y extendido cumpliendo rigurosamente los siguientes 
 
 -->Estructura del Proyecto
 
-El código está organizado bajo una estructura limpia de paquetes según sus responsabilidades:
+El código está organizado bajo una estructura de paquetes según sus responsabilidades:
 
 ```text
 src/
